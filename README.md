@@ -1,3 +1,5 @@
 Hi, I’m Chris (he/him) 👋 
 
-[![@delucis Astro contributions](https://astro.badg.es/v1/contributor/delucis.svg)](https://astro.badg.es/v1/contributor/delucis/)
+<a href="https://astro.badg.es/contributor/delucis/">
+  <img src="https://astro.badg.es/v2/contributor/delucis.svg" alt="@delucis Astro contributions" width="260" height="156">
+</a>
